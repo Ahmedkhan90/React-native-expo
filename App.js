@@ -13,60 +13,58 @@ export default function App() {
       </View>
 
       <View>
-        <Text>
-        MUHAMMAD AHMED KHAN
-        CONTACT # 03112030422
-        E-mail:Mohammad.ahmedkhan@icloud.com
-        KEY WORDS:
-        Looking For a sultable position of sharia Adviser / Assistants of sharia advviser / Teacher
+        
+<Text>MUHAMMAD AHMED KHAN</Text>
+        
+       <Text>CONTACT #</Text> <Text> 03112030422</Text>
+       <Text>E-mail:</Text> <Text>Mohammad.ahmedkhan@icloud.com</Text>
+        <Text>KEY WORDS:</Text> <Text>Looking For a sultable position of sharia Adviser / Assistants of sharia advviser / Teacher
         position with a pertigious and reputable establishment where
-        I will have a 'hands on' role.
-  </Text>
+        I will have a 'hands on' role.</Text>
       </View>
 
       <View>
-      <Text>
-        PERSONAL INFORMATION
-        
-        Father's name : MUHAMMAD MIKAIL KHAN
-          CNIC: 42201-9557244-7
-          DOB: -1-MAR-1991
-          Religion : Islam
-          Adress: H no. 5/1856 Shah faisal colony Block 5 karachi
-          </Text>
+        <Text>PERSONAL INFORMATION</Text> 
+        <Text>Father's Name:</Text> <Text> MUHAMMAD MIKAIL KHAN</Text>
+        <Text> CNIC:</Text><Text>  42201-9557244-7</Text>
+        <Text>Date Of Birth:</Text><Text>1-MAR-1991</Text>
+        <Text>Religion:</Text><Text>Islam</Text>
+        <Text>Maritail Status:</Text><Text>Married</Text>
+        <Text>Adress:</Text><Text>H No. 5/1856 Shah Faisal Colony Block 5 Karachi</Text>
     </View>
 
         <View>
-        <Text>
-        PERSNOL SKILLS
-        
-            Ms Office
-            Web  mobile Aplication Development
-            Englisht Composing
-            Urdu Composing
-            Arabic Cmposing
-            Persion Composing
-            </Text>
+          <Text>PERSNOL SKILLS</Text>
+          <Text>Ms Office</Text>
+          <Text>Web And Mobile Hybride Application Development</Text>
+          <Text>Front-End And Back-End Developer</Text>
+          <Text>Graphic Desiner</Text>
+          <Text>English Composer</Text>
+          <Text>Urdu Composer</Text>
+          <Text>Arabic Compoder</Text>
+          <Text>Persion Composer</Text>
         </View>
+        
         <View>
-        <Text>
-    QULIFICATION
+        
+          <Text>ACADEMIC QULIFICATION</Text>
+          <Text>MATRIC: IN SCIENCE FORM MATRIC BOARD KARACHI</Text>
+          <Text>INTER: IN COMMERCE FORM INTER BOARD KARACHI</Text>
+          <Text>BECHOLOUR: IN COMMERCE FROM UNIVERCITY OF KARACHI(CONTINUE)</Text>
+          <Text>MASTER'S IN ARABIC AND ISLAMIAT FROM KARACHI UNIVERCITY</Text>
+          <Text>MASTER'S EQULANCE FROM HEC(HEIGHER EDUCATION CENTER KARACHI) FOR ARABIC And ISLAMIAT</Text>
+          <Text>MPHIL FROM KARACHI UNIVERCTY(CONTINUE)</Text>
 
-    MATRIC: IN SCIENCE FORM MATRIC BOARD KARACHI
-    INTER: IN COMMERCE FORM INTER BOARD KARACHI
-    BECHOLOUR: IN COMMERCE FROM UNIVERCITY OF KARACHI(CONTINUE)
-    MASTER'S IN ARABIC AND ISLAMIAT FROM KARACHI UNIVERCITY
-    EQULANCE FRON HEC(HEIGHER EDUCATION CENTER KHI) FOR ARABIC And ISLAMIAT
-    MPHIL FROM KARACHI UNIVERCTY(CONTINUE)
-    SHAHADAT UL AMMA IS EQULE TO MATRIC IN ARABIC And ISLAMIAT
-    SHAHADAT UL KHASSA IS EQULE TO INTER IN ARABIC ISLAMIAT
-    SHAHADAT UL ALMIA IS EQULE TO BECHOLER IN ARABICISLMIAT
-    SHAHADAT UL AALMIA IS EQULE TO MASTER IN ARABICISLAMIAT
-    SHAHADAT UL TAKHASSUS FIL FIQH IS EQULE TO M.PHIL IN ARABIC ISLMIAT
-    ADEEB ARABIC FORM MATRIC BOARD OF KARACHI
-    ALIM ARABIC FROM MATRIC BOARD OF KARACHI
-    FAZIL ARABIC FROM MATRIC BOARD OF KARACHI   
-    </Text>
+          <Text>RELIGION QULIFICATION</Text>
+          <Text>SHAHADAT UL AMMA IS EQULE TO MATRIC IN ARABIC And ISLAMIAT</Text>
+          <Text>SHAHADAT UL KHASSA IS EQULE TO INTER IN ARABIC And ISLAMIAT</Text>
+          <Text>SHAHADAT UL ALMIA IS EQULE TO BECHOLER IN ARABIC And ISLMIAT</Text>
+          <Text>SHAHADAT UL AALMIA IS EQULE TO MASTER IN ARABIC And ISLAMIAT</Text>
+          <Text>SHAHADAT UL TAKHASSUS FIL FIQH IS EQULE TO M.PHIL IN ARABIC ISLMIAT</Text>
+          <Text>ADEEB ARABIC FORM MATRIC BOARD OF KARACHI</Text>
+          <Text>ALIM ARABIC FROM MATRIC BOARD OF KARACHI</Text>
+          <Text>FAZIL ARABIC FROM MATRIC BOARD OF KARACHI </Text>
+          <Text>TAJVEED E QURAN FROM MADARSA MANZAR UL ISLAM</Text>
      </View>
        
     </ScrollView>
